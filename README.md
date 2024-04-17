@@ -8,9 +8,13 @@ Projeto de Arquitetura Orientada a eventos
 - Kafka
 - Docker
 
+<br>
 Tutorial:
-Subir imagens da raiz do diretório docker: 
-- docker-compose up -d
+
+- Subir imagens do docker-compose.yml na raiz do projeto: 
+   
+   - docker-compose up -d
+
 - Iniciar as duas aplicações SpringBoot utilizando Eclipse ou IntelliJ
 - Envio de dados para o microserviço utilizando requisição POST para a url:
    
